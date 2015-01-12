@@ -10,3 +10,5 @@ Creating a new branch is quick and simple.
 分支管理策略
 
 Bug分支
+
+多人协作--抓取分支
